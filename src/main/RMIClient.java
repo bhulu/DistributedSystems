@@ -7,8 +7,7 @@ public class RMIClient
 {
     public static void main (String argv[])
     {
-	// Parse the commandline to get the hostname where
-	// the server object resides
+	
 	String host = "";
 
         if (argv.length == 1)
